@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Alexey  
 
 - 📍 Currently studying in **Serbia**  
-- 💻 Focused on **Backend Development (Go)**  
-- ⚙️ Curious about **Low-Level Programming**  
-- 🚀 Always learning, building, and experimenting 
+- 💻 Backend Developer (Go)
+- ⚙️ Interested in Low-Level Systems, distributed architectures, and performance-oriented backend
+- 📚 Working on practical projects in Go, networking, and systems programming
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcfv&show_icons=true&theme=synthwave)
