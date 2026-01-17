@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Alexey  
-
 - 📍 Currently studying in **Serbia**  
 - 💻 Backend Developer (Go)
 - ⚙️ Interested in Low-Level Systems, distributed architectures, and performance-oriented backend
